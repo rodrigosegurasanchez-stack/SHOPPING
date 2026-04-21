@@ -5,8 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>F1</title>
     <link rel="stylesheet" href="css/style.css">
+    
 </head>
 <body>
     <h1>ESTADISTICAS F1</h1>
+    <h2>Tiempos</h2>
+    <p>Estadisticas de la temporada 25/26</p>
+    <h1 id="animado"></h1>
+    <script src="/javascript.js"></script>
 </body>
 </html>
